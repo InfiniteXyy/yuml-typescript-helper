@@ -1,7 +1,10 @@
 ## About
-在线 UML 生成网站 yuml.me 的一个辅助工具。
+在线 UML 生成网站 [yuml.me](https://www.yuml.me) 的一个辅助工具。
 
 通过 `typescript` 的自动补全和面向对象特性让编写 UML 声明更加轻松。
+
+现在支持用例图
+
 
 ## Usage
 ```bash

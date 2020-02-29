@@ -4,7 +4,7 @@ const diagram = new UsecaseDiagram()
 // Actors
 const customor         = diagram.actor("Customor")
 const staff            = diagram.actor("Office Staff")
-// Use casesdiagram.
+// Use cases
 const signIn           = diagram.usecase("Sign In")
 const buyProducts      = diagram.usecase("Buy Products")
 const browseProducts   = diagram.usecase("Browse Products")
