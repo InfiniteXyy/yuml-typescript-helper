@@ -1,0 +1,14 @@
+(Sign In)
+(Buy Products)
+(Buy Products)>(Browse Products)
+(Buy Products)>(Checkout)
+(Browse Products)
+(Checkout)
+(Add New Credit Card)
+(Checkout)<(Add New Credit Card)
+(Process Order)
+[Customor]
+[Customor]-(Sign In)
+[Customor]-(Buy Products)
+[Office Staff]
+[Office Staff]-(Process Order)
